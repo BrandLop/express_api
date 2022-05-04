@@ -1,0 +1,22 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "A simple API with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandLop/express_api.git"
+  },
+  "author": "BrandLop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandLop/express_api/issues"
+  },
+  "homepage": "https://github.com/BrandLop/express_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
